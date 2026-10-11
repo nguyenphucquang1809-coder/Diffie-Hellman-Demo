@@ -1,0 +1,6 @@
+{
+  "name": "Diffie-Hellman Key Exchange Visualizer",
+  "description": "Mô phỏng trực quan tương tác thuật toán trao đổi khóa Diffie-Hellman với hoạt ảnh truyền luồng bảo mật, phân tích từng bước và biểu đồ số học.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
